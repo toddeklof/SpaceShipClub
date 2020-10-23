@@ -42,3 +42,6 @@ ExportedObj/
 # Third-Party
 **/ARFoundationRemoteInstaller*
 **/AR\ Foundation\ Remote\ Loader*
+
+# photon
+Assets\Photon\PhotonUnityNetworking\Resources\PhotonServerSettings.asset
