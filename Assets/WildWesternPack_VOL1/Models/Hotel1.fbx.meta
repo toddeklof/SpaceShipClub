@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: d4be03e8c3de06f4b9b423ca9cca13f9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Hotel1Floor1
+    2100002: Hotel1Veranda1
+    2100004: Hotel1Roof1
+    2100006: Hotel1Counter1
+    2100008: Hotel1Interior1
+    2100010: Hotel1Railing1
+    2100012: Hotel1Stairs_Railing1
+    2100014: Hotel1Windows1
+    2100016: Hotel1Beams1
+    2100018: Hotel1Supports1
+    2100020: Hotel1Walls1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Hotel1
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Beams1
+    second: {fileID: 2100000, guid: 7f77ce7221f76ad45800d54866c6b47b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Counter1
+    second: {fileID: 2100000, guid: f4205d2fb169ae84c90dae819f602843, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Floor1
+    second: {fileID: 2100000, guid: 936ad5c7abbfee842b59b436d6fdc225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Interior1
+    second: {fileID: 2100000, guid: 024c32182ba0c5d44a40e057bf4a408b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Railing1
+    second: {fileID: 2100000, guid: 1bbdb78e9f79ac049b44cd9c7d59cc03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Roof1
+    second: {fileID: 2100000, guid: 7458e36ee465b3e4d864fcbfb8c28fa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Stairs_Railing1
+    second: {fileID: 2100000, guid: da0c23f750ca2ef46be48e61508e1d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Supports1
+    second: {fileID: 2100000, guid: 0e2d1d6072fe19944afe690aaef6ba23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Veranda1
+    second: {fileID: 2100000, guid: e1db1de86884b2a43a6d5394aa9005aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Walls1
+    second: {fileID: 2100000, guid: 436a7369ef01c5749822b3790db7f1cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hotel1Windows1
+    second: {fileID: 2100000, guid: 2db1ee8b65c7ce04c898984f9773a0fe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
