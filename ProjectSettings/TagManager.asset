@@ -4,10 +4,15 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Stair
+  - Climb
+  - Fly
   - Wood
   - Metal
   - Sand
   - Glass
+  - Animal
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -29,17 +34,17 @@ TagManager:
   - 
   - 
   - 
+  - Animal
+  - 
+  - 
+  - Enemy
   - 
   - 
   - 
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Item
   - 
   m_SortingLayers:
   - name: Default
